@@ -1,0 +1,17 @@
+{
+  "production": {
+    "PORT": 3000,
+    "MONGODB_URI": "mongodb+srv://admin:root@yowlt.2buvg.mongodb.net/TwitterHub?retryWrites=true&w=majority",
+    "JWT_SECRET": "kjandkjsandksajbvdkjasjdknas"
+  },
+  "development": {
+    "PORT": 3001,
+    "MONGODB_URI": "mongodb+srv://admin:root@yowlt.2buvg.mongodb.net/TwitterHub?retryWrites=true&w=majority",
+    "JWT_SECRET": "cdodoijvosijalskdmcspodcdskm"
+  },
+  "test": {
+    "PORT": 3002,
+    "MONGODB_URI": "mongodb+srv://admin:root@yowlt.2buvg.mongodb.net/TwitterHub?retryWrites=true&w=majority",
+    "JWT_SECRET": "fwevsdvjnqiwfjnosdvsdnvosdno"
+  }
+}
